@@ -1,5 +1,6 @@
 body {
     front-family: Helvtica;
+    background-color: black;
 }
 
 img {
@@ -7,6 +8,10 @@ img {
     width: 150px;
 }
 
+h1 {
+    font-weight: 100;
+    color: white;
+}
 .container {
     display: flex;
     align-items: center;
